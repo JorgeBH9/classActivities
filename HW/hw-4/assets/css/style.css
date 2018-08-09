@@ -1,0 +1,52 @@
+body{
+    background-image: url("../images/GemsGameBackground.png");
+    background-size: 1024px 740px;
+    font-family: 'Hanalei Fill', cursive;  
+}
+
+#Welcome{
+    background: white;
+}
+
+#gameInstructions{
+    background: white;
+}
+
+#buttonsToPlay{
+    background: white;
+}
+
+#Button1 {
+    background-image: url("../images/RedGem.png");
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+#Button2 {
+    background-image: url("../images/Diamond.png");
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+#Button3 {
+    background-image: url("../images/YellowGem.png");
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+#Button4 {
+    background-image: url("../images/GreenGem.png");
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
+}
+
+#randomNumberDisplay{
+    background-image: url("../images/GreenSquare.png");
+    background-size: 134px 104px;
+    height: 134px;  
+    width: 104px;
+}
