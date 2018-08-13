@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/triviaBackground.jpeg");
+    background-size: 100%;
+}
+
+.row{
+    text-align: center;
+    color: black;
+}
+
+#titulo{
+    color: black;
+    background: white;
+}
+
+.btn{
+    float: center;
+    vertical-align: middle;
+    border-radius: 20%; 
+}
